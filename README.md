@@ -1,6 +1,6 @@
 # Comparative Analysis of Blackhole Mass Estimation in Type-2 AGNs: Classical vs. Quantum Machine Learning and Deep Learning Approaches
 
-In the case of Type-2 AGNs, estimating the mass of the black hole is a chal-
+In the case of Type-2 AGNs, estimating the mass of the black hole is a chal
 lenging task. Understanding how galaxies build and evolve requires considerable
 insight into the mass of black holes. In this work, we compared different classical
 and quantum machine learning algorithms for Black Hole mass estimation. The
